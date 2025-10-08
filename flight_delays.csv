@@ -1,0 +1,21 @@
+airline,destination,status,count
+Alaska,"Los Angeles","on time",497
+Alaska,"Los Angeles",delayed,62
+Alaska,Phoenix,"on time",221
+Alaska,Phoenix,delayed,12
+Alaska,"San Diego","on time",212
+Alaska,"San Diego",delayed,20
+Alaska,"San Francisco","on time",503
+Alaska,"San Francisco",delayed,102
+Alaska,Seattle,"on time",1841
+Alaska,Seattle,delayed,305
+"AM West","Los Angeles","on time",694
+"AM West","Los Angeles",delayed,117
+"AM West",Phoenix,"on time",4840
+"AM West",Phoenix,delayed,415
+"AM West","San Diego","on time",383
+"AM West","San Diego",delayed,65
+"AM West","San Francisco","on time",320
+"AM West","San Francisco",delayed,129
+"AM West",Seattle,"on time",201
+"AM West",Seattle,delayed,61
